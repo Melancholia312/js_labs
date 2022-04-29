@@ -34,7 +34,7 @@ function exc_3_func_3() {
     p_container.innerHTML = recursive(i, p_result_values);
 }
 
-function clear_p() {
+function clear_p3() {
     let p_container = document.getElementById("lab1_exc3");
     p_container.innerHTML = "";
 }
