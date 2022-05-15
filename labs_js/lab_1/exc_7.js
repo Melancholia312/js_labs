@@ -6,7 +6,5 @@ function exc_7() {
         } else {
             exc_7()
         }
-    } else {
-        exc_7()
     }
 }
